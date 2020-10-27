@@ -6,6 +6,7 @@
 
 # dependencies
 /node_modules
+/openai_env
 /.pnp
 .pnp.js
 
